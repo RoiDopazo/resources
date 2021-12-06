@@ -12,7 +12,7 @@
   {
     "brand": "Old El Paso",
     "name": "Sazonador para fajitas suave",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202104/27/00118010001396____11__1200x1200.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/sazonador_fajitas.jpeg",
     "unitPrice": 1.15,
     "amount": "30g",
     "ingredients": "Azúcar, cebolla en polvo (13%), sal, proteína de soja hidrolizada, especias (6%) (pimienta negra, pimienta de Cayena, jengibre), corrector de acidez (ácido cítrico), aroma, aroma de humo, aroma natural, extracto de levadura, colorante (caramelo natural), ajo en polvo, antiaglomerante (fosfato tricálcico)",
@@ -22,7 +22,7 @@
   {
     "brand": "Knorr",
     "name": "Pot japanese miso",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201910/22/00118036001867____1__1200x1200.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/Pot_miso.jpeg",
     "unitPrice": 1.95,
     "amount": "56g",
     "ingredients": "Fideos de arroz (71%)(arroz (67%), almidón de tapioca), almidón de patata, miso (4%)(SOJA, arroz, sal, fermentos de koji), azúcar, cebolla tostada¹ (2,5%), salsa de soja (1,7%)(salsa de soja (SOJA, TRIGO), sal, maltodextrina), jarabe de glucosa, cebolletas¹ (1 ,7%), aromas, sal yodada, algas (0,8%), espinacas¹ (0,8%), extracto de levadura, sal, especias (ajo¹ (0,2%), cúrcuma¹ (0,1%)), aceite de maíz, zumo concentrado de raíz de APIO¹ (0,2%), zumo concentrado de zanahoria¹ (0,07%), zumo concentrado de puerro¹ (0,04%), zumo concentrado de cebolla¹ (0,04%), jarabe de caramelo, maltodextrina, hojas de cilantro¹ (0,07%). Puede contener huevo, leche y mostaza. ¹Cultivadas de forma sostenible",
@@ -31,7 +31,7 @@
   {
     "brand": "Tiger Khan",
     "name": "Vinagre de arroz",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201609/21/00118089302741____1__600x600.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/vinagre_arroz.jpeg",
     "unitPrice": 2.49,
     "amount": "200ml",
     "ingredients": "Agua, vinagre de arroz",
@@ -40,7 +40,7 @@
   {
     "brand": "Ta-Tung",
     "name": "Dim Sum gyoza de carne",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201803/01/00118812700096____1__600x600.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/gyoza_carne.jpeg",
     "unitPrice": 2.85,
     "amount": "170g",
     "ingredients": "GYOZAS (154g): Masa (45%): harina de trigo, agua, gluten de trigo y sal. Relleno (55%): col, carne de cerdo (20%), puerro, proteína de soja, fécula de patata, aceites vegetales (soja y sésamo), acidulantes (lactato potásico y acetato sódico), aroma natural, sal, azúcar, salsa de soja [agua, soja, harina de trigo, sal, conservador (sorbato potásico) y colorante (caramelo natural)], pimienta negra molida y jengibre. SALSA DE SOJA (16g): agua, sal, soja, azúcar, harina de trigo, conservador (benzoato de sodio) y potenciadores del sabor (inosinato sódico, guanilato sódico). Contiene: gluten, soja, sésamo. Puede contener trazas de: crustáceos, huevos, pescado, cacahuetes, leche, frutos de cáscara, apio, mostaza, sulfitos y moluscos",
@@ -50,7 +50,7 @@
   {
     "brand": "Alfez",
     "name": "Falalfel estilo libanés",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201909/26/00118050400169____1__600x600.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/falafel_libanes.jpeg",
     "unitPrice": 3.05,
     "amount": "150g",
     "ingredients": "Harina de garbanzos (54%), pan rallado, aderezo (bicarbonato de sodio, harina de trigo, comino, galleta (trigo), ajo en polvo, sal, perejil, extracto de levadura en polvo, dextrosa, cilantro, curcuma, fenogreco, mostaza, comino, pimenta, sal, jengibre, cardamomo, extracto de especias), cebolla (13%) y perejil",
@@ -59,7 +59,7 @@
   {
     "brand": "Tiger Khan",
     "name": "Salsa yakitori tradicional japonesa",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201709/26/00118089500252____1__600x600.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/salsa_yakitori.jpeg",
     "unitPrice": 2.49,
     "amount": "150ml",
     "ingredients": "Agua, sirope de fructosa, azúcar, ajo, sal, limón , almidón de maiz, jengibre, extracto de levdura, colorante E150c, conservador E260 y E202, especias(clavo, canela, anis estrellado), espesante E415",
@@ -68,7 +68,7 @@
   {
     "brand": "Ta-Tung",
     "name": "Arroz tres delicias",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201803/01/00118812700039____1__600x600.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/arroz_tres_delicias.jpeg",
     "unitPrice": 3.1,
     "amount": "350g",
     "ingredients": "Arroz cocido (68%), huevo líquido pasteurizado de gallinas criadas en el suelo (6%), fiambre de paleta cocida sabor ahumado (6%) [paleta de cerdo, agua, fécula de patata, sal, conservadores (lactato potásico, acetato sódico, nitrito sódico), proteína de cerdo, estabilizantes (trifosfatos, carragenanos, goma xantana), antioxidante (eritorbato sódico), aroma, aroma de humo], zanahoria (6%), guisantes (4%), cebolla (4%), aceite de girasol, acdiulantes (lactato potásico y acetato sódico), salsa de soja [agua, soja, harina de trigo, sal, conservador (sorbato potásico) y colorante (caramelo natural)], sal y potenciador del sabor (glutamato monosódico). Contiene: gluten, soja y huevo. Puede contener trazas de: crustáceos, pescado, cacahuetes, leche, frutos de cáscara, apio, mostaza, sésamo, sulfitos y moluscos",
@@ -78,7 +78,7 @@
   {
     "brand": "Kung-Fu",
     "name": "Fideos sabor curry",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202109/24/00118089300257____3__1200x1200.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/fideos_curry.jpeg",
     "unitPrice": 0.9,
     "amount": "85g",
     "ingredients": "Preparado alimenticio a base de harina de trigo (70.78g): harina de trigo (43.08g), manteca de palma, fécula de patata, estabilizador: goma guar, antioxidante: extracto rico en tocoferoles. Condimento preparado deshidratado sabor a ternera al curry (8.47g): sal, fécula de patata, curry en polvo (cardamomo, comino, pimienta negra, cilantro, cúrcuma, especias) (2%), potenciador del sabor: glutamato monosódico, aroma artificial de ternera (0.75%), ajo en polvo, salsa soja en polvo (habas de soja modificada genéticamente, trigo, sal, dextrina de maíz), cebolleta desecada, especias, estabilizador: goma guar. Condimento preparado (5.75g): manteca de palma y especias",
@@ -88,7 +88,7 @@
   {
     "brand": "Alfez",
     "name": "Salsa al estilo marroquí con un sabor dulce y a hierbas",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202108/25/00118050400359____2__1200x1200.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/salsa_marroqui.jpeg",
     "unitPrice": 3.7,
     "amount": "405g",
     "ingredients": "Agua, tomate 35%, azúcar, albaricoques secos 5% (albaricoques, conservador: DIÓXIDO DE SULFURO), puré de tomate concentrado 4%, aceite de nabina, condimento 3% (especias molidas, harina de arroz, azúcar, sal, hierbas, ajo en polvo, zumo de limón en polvo, colorante: extracto de pimentón), almidón de maíz modificado, puré de ajo, acidulante: ácido cítrico, hoja de cilantro seco",
@@ -97,7 +97,7 @@
   {
     "brand": "Goya",
     "name": "Bebida de malta líquida con gas",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202110/15/00118620101859____1__1200x1200.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/bebida_malta.jpeg",
     "unitPrice": 1.79,
     "amount": "355ml",
     "ingredients": "Agua , jarabe de maíz de alta fructosa , jarabe de maíz , malta de cebada palida , malta tostada (caramelo) , colorante e-150a , sulfato calcio e-516 , acido fosforico e-338 , sal , lupulo",
@@ -106,7 +106,7 @@
   {
     "brand": "Kikkoman",
     "name": "Salsa wok",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201909/26/00118017604291____1__600x600.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/salsa_wok.jpeg",
     "unitPrice": 4.15,
     "amount": "250ml",
     "ingredients": "Salsa de Soja (agua, soja, trigo, sal), azúcar, agua, vino (contiene sulfitos),sal y extracto de levadura",
@@ -115,7 +115,7 @@
   {
     "brand": "Yatekomo",
     "name": "Yakisoba classic gourmet oriental",
-    "image": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202109/21/00118036001180____9__1200x1200.jpg",
+    "image": "https://raw.githubusercontent.com/RoiDopazo/resources/master/react-tuto/img/yakisoba.jpeg",
     "unitPrice": 1.59,
     "amount": "93g",
     "ingredients": "Fideos orientales (79%): harina de trigo, aceite de palma, almidón modificado,sal, gasificantes (carbonato de sodio, carbonato de potásio). salsa liquida (17%)(salsa de soja 7,6% (agua, soja, trigo, sal), aceite girasol, azúcar, colorante (caramelo natural), salsa de soja en polvo 1,1% (soja, trigo, maltodextrina, sal), potenciadores del sabor (e621, e635), vinagre de sidra de manzana en polvo (vinagre de sidra de manzana, maltodextrina), especias, ajo polvo, corrector de la acidez (ácido cítrico), aroma, extracto de levadura, cebolla), guarnición deshidratada (4,0%)(zanahoria, col, puerro). Puede contener trazas de pescado, huevos, leche, crustáceos, apio, moluscos, mostaza, sésamo",
